@@ -38,7 +38,8 @@
 |   3| User                 |
 |   4| Trancaction          |
 |   5| Trancaction Detail   |
-|   6| Trancaction Payment  |
-|   7| Trancaction Buyer    |
+|   6| Payment              |
+|   7| Buyer                |
+|   8| Images               |
 
 </details>
